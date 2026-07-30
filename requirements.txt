@@ -1,0 +1,16 @@
+accelerate
+bitsandbytes
+datasets
+numpy
+openai
+pandas
+peft
+pydantic
+scikit-learn
+sentence-transformers
+sentencepiece
+torch
+tqdm
+transformers
+trl
+

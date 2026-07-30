@@ -1,0 +1,6 @@
+model,strict_em,strict_em_count,normalized_em,normalized_em_count,token_f1,sas,hybrid_semantic_acceptance,hybrid_semantic_accepted_count,too_long_errors,too_short_errors
+B1,82.86,324,82.86,324,93.26,92.12,91.82,359,34,25
+C1,82.86,324,82.86,324,93.37,92.39,91.05,356,30,31
+M1,79.28,310,79.28,310,92.19,91.48,90.79,355,63,9
+M2,83.89,328,83.89,328,94.44,92.99,93.35,365,35,22
+

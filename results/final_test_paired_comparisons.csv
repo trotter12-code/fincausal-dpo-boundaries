@@ -1,0 +1,8 @@
+comparison,role,exact_match_difference_pp,bootstrap_95ci_lower_pp,bootstrap_95ci_upper_pp,mcnemar_exact_p
+M2 - B1,predeclared_primary,1.0230,-1.5345,3.5806,0.5413
+M2 - C1,exploratory,1.0230,-1.5345,3.5806,0.5716
+M2 - M1,secondary_nominal_unadjusted,4.6036,1.7903,7.6726,0.0029
+M1 - C1,secondary_nominal_unadjusted,-3.5806,-6.9054,0.0000,0.0649
+M1 - B1,secondary_nominal_unadjusted,-3.5806,-6.6496,-0.5115,0.0385
+C1 - B1,secondary_nominal_unadjusted,0.0000,-2.0460,2.0460,1.0000
+
